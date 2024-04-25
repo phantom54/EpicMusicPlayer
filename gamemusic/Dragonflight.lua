@@ -1,4 +1,4 @@
---Created by YourDevil54 with Mp3tag, Python, Notepad++, Excel, tableconvert.com and texthandler.com
+﻿--Created by YourDevil54 with Mp3tag, Python, Notepad++, Excel, tableconvert.com and texthandler.com
 local EpicMusicPlayer = LibStub("AceAddon-3.0"):GetAddon("EpicMusicPlayer")
 if not EpicMusicPlayer then return end
 
@@ -8,29 +8,29 @@ local Dragonflight = {
 	["locked"] =  "true",
     {
         ["Album"] = "WoW 10.0.0 Dragonflight",
-        ["Song"] = "Theislesawaken Maintitle",
+        ["Song"] = "The Isles Awaken",
         ["Name"] = "sound\\music\\dragonflight\\mus_100_theislesawaken_maintitle.mp3",
         ["Id"] = 4880327,
         ["Length"] = 763,
-        ["Artist"] = "Various",
+        ["Artist"] = "Main Title",
         ["Wow"] = "true"
     },
     {
         ["Album"] = "WoW 10.0.0 Dragonflight",
-        ["Song"] = "Theislesawaken Maintitle Short",
+        ["Song"] = "The Isles Awaken Short",
         ["Name"] = "sound\\music\\dragonflight\\mus_100_theislesawaken_maintitle_short.mp3",
         ["Id"] = 4887931,
         ["Length"] = 641,
-        ["Artist"] = "Blizzard Entertainment",
+        ["Artist"] = "Main Title",
         ["Wow"] = "true"
     },
     {
         ["Album"] = "WoW 10.0.0 Dragonflight",
-        ["Song"] = "Theislesawaken Maintitle Beta",
+        ["Song"] = "The Isles Awaken Beta",
         ["Name"] = "sound\\music\\dragonflight\\mus_100_theislesawaken_maintitle_beta.mp3",
         ["Id"] = 4861186,
         ["Length"] = 171,
-        ["Artist"] = "Jake Lefkowitz, Jason Hayes",
+        ["Artist"] = "Main Title",
         ["Wow"] = "true"
     },
     {
