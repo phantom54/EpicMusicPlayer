@@ -54,3 +54,4 @@ gamemusic\Legion.lua
 gamemusic\BattleForAzeroth.lua
 gamemusic\Shadowlands.lua
 gamemusic\Dragonflight.lua
+
