@@ -3552,1247 +3552,1247 @@ local Dragonflight = {
         ["Artist"] = "Blizzard Entertainment",
         ["Wow"] = "true"
     },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_a.mp3",
-        -- ["Id"] = 5484575,
-        -- ["Length"] = 106,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_b.mp3",
-        -- ["Id"] = 5484577,
-        -- ["Length"] = 162,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_c.mp3",
-        -- ["Id"] = 5484579,
-        -- ["Length"] = 133,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_d.mp3",
-        -- ["Id"] = 5484581,
-        -- ["Length"] = 136,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_e.mp3",
-        -- ["Id"] = 5486240,
-        -- ["Length"] = 120,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_f.mp3",
-        -- ["Id"] = 5486242,
-        -- ["Length"] = 123,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil G",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_g.mp3",
-        -- ["Id"] = 5486244,
-        -- ["Length"] = 139,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_h.mp3",
-        -- ["Id"] = 5484583,
-        -- ["Length"] = 194,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil I",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_i.mp3",
-        -- ["Id"] = 5486246,
-        -- ["Length"] = 81,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil J",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_j.mp3",
-        -- ["Id"] = 5486248,
-        -- ["Length"] = 62,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Amirdrassil K",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_k.mp3",
-        -- ["Id"] = 5486250,
-        -- ["Length"] = 119,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Ancient Bough A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_a.mp3",
-        -- ["Id"] = 5484585,
-        -- ["Length"] = 115,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Ancient Bough B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_b.mp3",
-        -- ["Id"] = 5484587,
-        -- ["Length"] = 151,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Ancient Bough C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_c.mp3",
-        -- ["Id"] = 5484589,
-        -- ["Length"] = 123,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Ancient Bough H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_h.mp3",
-        -- ["Id"] = 5484591,
-        -- ["Length"] = 226,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Flame A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_a.mp3",
-        -- ["Id"] = 5484601,
-        -- ["Length"] = 123,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Flame B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_b.mp3",
-        -- ["Id"] = 5484603,
-        -- ["Length"] = 113,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Flame H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_h.mp3",
-        -- ["Id"] = 5484605,
-        -- ["Length"] = 122,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Reverie A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_a.mp3",
-        -- ["Id"] = 5484593,
-        -- ["Length"] = 97,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Reverie B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_b.mp3",
-        -- ["Id"] = 5484595,
-        -- ["Length"] = 104,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Reverie C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_c.mp3",
-        -- ["Id"] = 5484597,
-        -- ["Length"] = 88,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Barrows Of Reverie H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_h.mp3",
-        -- ["Id"] = 5484599,
-        -- ["Length"] = 85,
-        -- ["Artist"] = "Russell Brower",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Cinder Summit A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_a.mp3",
-        -- ["Id"] = 5483945,
-        -- ["Length"] = 93,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Cinder Summit B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_b.mp3",
-        -- ["Id"] = 5483947,
-        -- ["Length"] = 105,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Cinder Summit C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_c.mp3",
-        -- ["Id"] = 5483949,
-        -- ["Length"] = 115,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Cinder Summit H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_h.mp3",
-        -- ["Id"] = 5483951,
-        -- ["Length"] = 143,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_a.mp3",
-        -- ["Id"] = 5484549,
-        -- ["Length"] = 22,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_b.mp3",
-        -- ["Id"] = 5484551,
-        -- ["Length"] = 23,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_c.mp3",
-        -- ["Id"] = 5484553,
-        -- ["Length"] = 130,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_d.mp3",
-        -- ["Id"] = 5484555,
-        -- ["Length"] = 131,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_e.mp3",
-        -- ["Id"] = 5484557,
-        -- ["Length"] = 86,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_f.mp3",
-        -- ["Id"] = 5484559,
-        -- ["Length"] = 148,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope G",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_g.mp3",
-        -- ["Id"] = 5484561,
-        -- ["Length"] = 108,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_h.mp3",
-        -- ["Id"] = 5484563,
-        -- ["Length"] = 204,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope I",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_i.mp3",
-        -- ["Id"] = 5484565,
-        -- ["Length"] = 157,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope J",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_j.mp3",
-        -- ["Id"] = 5484567,
-        -- ["Length"] = 129,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope K",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_k.mp3",
-        -- ["Id"] = 5484569,
-        -- ["Length"] = 129,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope L",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_l.mp3",
-        -- ["Id"] = 5484571,
-        -- ["Length"] = 203,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreams Hope M",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_m.mp3",
-        -- ["Id"] = 5484573,
-        -- ["Length"] = 133,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_a.mp3",
-        -- ["Id"] = 5486222,
-        -- ["Length"] = 104,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_b.mp3",
-        -- ["Id"] = 5486224,
-        -- ["Length"] = 105,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_c.mp3",
-        -- ["Id"] = 5486226,
-        -- ["Length"] = 129,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_d.mp3",
-        -- ["Id"] = 5488889,
-        -- ["Length"] = 121,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_e.mp3",
-        -- ["Id"] = 5488891,
-        -- ["Length"] = 89,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Dreamsurge H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_h.mp3",
-        -- ["Id"] = 5484517,
-        -- ["Length"] = 126,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_a.mp3",
-        -- ["Id"] = 5484625,
-        -- ["Length"] = 103,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_b.mp3",
-        -- ["Id"] = 5484627,
-        -- ["Length"] = 64,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_c.mp3",
-        -- ["Id"] = 5484629,
-        -- ["Length"] = 36,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_d.mp3",
-        -- ["Id"] = 5484631,
-        -- ["Length"] = 40,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_e.mp3",
-        -- ["Id"] = 5484633,
-        -- ["Length"] = 104,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_f.mp3",
-        -- ["Id"] = 5484635,
-        -- ["Length"] = 63,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream G",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_g.mp3",
-        -- ["Id"] = 5484637,
-        -- ["Length"] = 36,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_h.mp3",
-        -- ["Id"] = 5484639,
-        -- ["Length"] = 228,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream I",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_i.mp3",
-        -- ["Id"] = 5484641,
-        -- ["Length"] = 37,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream J",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_j.mp3",
-        -- ["Id"] = 5484643,
-        -- ["Length"] = 133,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream K",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_k.mp3",
-        -- ["Id"] = 5484645,
-        -- ["Length"] = 84,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream L",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_l.mp3",
-        -- ["Id"] = 5484647,
-        -- ["Length"] = 47,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Emerald Dream M",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_m.mp3",
-        -- ["Id"] = 5484649,
-        -- ["Length"] = 51,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_a.mp3",
-        -- ["Id"] = 5484284,
-        -- ["Length"] = 120,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_b.mp3",
-        -- ["Id"] = 5484286,
-        -- ["Length"] = 148,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_c.mp3",
-        -- ["Id"] = 5484288,
-        -- ["Length"] = 128,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_d.mp3",
-        -- ["Id"] = 5484290,
-        -- ["Length"] = 145,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_e.mp3",
-        -- ["Id"] = 5484292,
-        -- ["Length"] = 157,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_f.mp3",
-        -- ["Id"] = 5484294,
-        -- ["Length"] = 204,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera G",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_g.mp3",
-        -- ["Id"] = 5484296,
-        -- ["Length"] = 204,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Eye Of Ysera H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_h.mp3",
-        -- ["Id"] = 5484298,
-        -- ["Length"] = 204,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_a.mp3",
-        -- ["Id"] = 5484519,
-        -- ["Length"] = 107,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_b.mp3",
-        -- ["Id"] = 5484521,
-        -- ["Length"] = 119,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_c.mp3",
-        -- ["Id"] = 5484523,
-        -- ["Length"] = 113,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_d.mp3",
-        -- ["Id"] = 5484525,
-        -- ["Length"] = 114,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_e.mp3",
-        -- ["Id"] = 5484527,
-        -- ["Length"] = 97,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_f.mp3",
-        -- ["Id"] = 5484529,
-        -- ["Length"] = 120,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Firebreach H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_h.mp3",
-        -- ["Id"] = 5484531,
-        -- ["Length"] = 289,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_a.mp3",
-        -- ["Id"] = 5486228,
-        -- ["Length"] = 109,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_b.mp3",
-        -- ["Id"] = 5486230,
-        -- ["Length"] = 100,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_c.mp3",
-        -- ["Id"] = 5486232,
-        -- ["Length"] = 107,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_d.mp3",
-        -- ["Id"] = 5486234,
-        -- ["Length"] = 96,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_e.mp3",
-        -- ["Id"] = 5486236,
-        -- ["Length"] = 87,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_f.mp3",
-        -- ["Id"] = 5486238,
-        -- ["Length"] = 93,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Flame Incursion H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_h.mp3",
-        -- ["Id"] = 5484533,
-        -- ["Length"] = 131,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_a.mp3",
-        -- ["Id"] = 5484535,
-        -- ["Length"] = 82,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_b.mp3",
-        -- ["Id"] = 5484537,
-        -- ["Length"] = 94,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_c.mp3",
-        -- ["Id"] = 5484539,
-        -- ["Length"] = 84,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate Combat A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_a.mp3",
-        -- ["Id"] = 5488893,
-        -- ["Length"] = 176,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate Combat B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_b.mp3",
-        -- ["Id"] = 5488895,
-        -- ["Length"] = 140,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate Combat C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_c.mp3",
-        -- ["Id"] = 5488897,
-        -- ["Length"] = 123,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_d.mp3",
-        -- ["Id"] = 5484541,
-        -- ["Length"] = 94,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_e.mp3",
-        -- ["Id"] = 5484543,
-        -- ["Length"] = 79,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_f.mp3",
-        -- ["Id"] = 5484545,
-        -- ["Length"] = 76,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Fury Incarnate H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_h.mp3",
-        -- ["Id"] = 5484547,
-        -- ["Length"] = 180,
-        -- ["Artist"] = "Glenn Stafford",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Haven Cascades A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_a.mp3",
-        -- ["Id"] = 5484607,
-        -- ["Length"] = 126,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Haven Cascades B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_b.mp3",
-        -- ["Id"] = 5484609,
-        -- ["Length"] = 138,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Haven Cascades C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_c.mp3",
-        -- ["Id"] = 5484611,
-        -- ["Length"] = 100,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Haven Cascades H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_h.mp3",
-        -- ["Id"] = 5484613,
-        -- ["Length"] = 140,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_a.mp3",
-        -- ["Id"] = 5484651,
-        -- ["Length"] = 203,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_b.mp3",
-        -- ["Id"] = 5484653,
-        -- ["Length"] = 204,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_c.mp3",
-        -- ["Id"] = 5484655,
-        -- ["Length"] = 203,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_d.mp3",
-        -- ["Id"] = 5484657,
-        -- ["Length"] = 125,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary E",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_e.mp3",
-        -- ["Id"] = 5484659,
-        -- ["Length"] = 176,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary F",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_f.mp3",
-        -- ["Id"] = 5484661,
-        -- ["Length"] = 132,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary G",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_g.mp3",
-        -- ["Id"] = 5484663,
-        -- ["Length"] = 121,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_h.mp3",
-        -- ["Id"] = 5484665,
-        -- ["Length"] = 203,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Rootwoven Sanctuary I",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_i.mp3",
-        -- ["Id"] = 5484667,
-        -- ["Length"] = 117,
-        -- ["Artist"] = "Leo Kaliski",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Amirdrassil Finale 1",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_amirdrassil_finale_1.mp3",
-        -- ["Id"] = 5493357,
-        -- ["Length"] = 10,
-        -- ["Artist"] = "Neal Acree",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Amirdrassil Finale 2",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_amirdrassil_finale_2.mp3",
-        -- ["Id"] = 5484685,
-        -- ["Length"] = 7,
-        -- ["Artist"] = "Neal Acree",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Aspects Reempowered",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_aspects_reempowered.mp3",
-        -- ["Id"] = 5484671,
-        -- ["Length"] = 101,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Assault On Wellspring",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_assault_on_wellspring.mp3",
-        -- ["Id"] = 5484669,
-        -- ["Length"] = 82,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Blessing Of Teldrassil",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_blessing_of_teldrassil.mp3",
-        -- ["Id"] = 5484693,
-        -- ["Length"] = 98,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Bloom Begins",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_bloom_begins.mp3",
-        -- ["Id"] = 5484701,
-        -- ["Length"] = 56,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Elisande Timeway Escape",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_elisande_timeway_escape.mp3",
-        -- ["Id"] = 5484679,
-        -- ["Length"] = 57,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Emerald Welcome",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_emerald_welcome.mp3",
-        -- ["Id"] = 5484677,
-        -- ["Length"] = 42,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Forlorn Hope",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_forlorn_hope.mp3",
-        -- ["Id"] = 5484695,
-        -- ["Length"] = 68,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Fyrakk And Prophet",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_and_prophet.mp3",
-        -- ["Id"] = 5484683,
-        -- ["Length"] = 100,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Fyrakk Steals Smolderon",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_steals_smolderon.mp3",
-        -- ["Id"] = 5484687,
-        -- ["Length"] = 28,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Fyrakk The Blazing",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_the_blazing.mp3",
-        -- ["Id"] = 5484681,
-        -- ["Length"] = 54,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Galoks New Weapon",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_galoks_new_weapon.mp3",
-        -- ["Id"] = 5484689,
-        -- ["Length"] = 50,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Halls Of Lightning",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_halls_of_lightning.mp3",
-        -- ["Id"] = 5484675,
-        -- ["Length"] = 24,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Merithra Defeats Galok",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_merithra_defeats_galok.mp3",
-        -- ["Id"] = 5484691,
-        -- ["Length"] = 54,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Prophet Transforms",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_prophet_transforms.mp3",
-        -- ["Id"] = 5484703,
-        -- ["Length"] = 35,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Raid Fyrakk Intro",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_raid_fyrakk_intro.mp3",
-        -- ["Id"] = 5484697,
-        -- ["Length"] = 43,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene The Tide Turns",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_the_tide_turns.mp3",
-        -- ["Id"] = 5484705,
-        -- ["Length"] = 123,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Tyrs Awakening",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_tyrs_awakening.mp3",
-        -- ["Id"] = 5484699,
-        -- ["Length"] = 50,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Vyranoth Confronts Odyn",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_vyranoth_confronts_odyn.mp3",
-        -- ["Id"] = 5484707,
-        -- ["Length"] = 65,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Scene Ysera Goodbye",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_ysera_goodbye.mp3",
-        -- ["Id"] = 5484709,
-        -- ["Length"] = 152,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Viridescent Thicket A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_a.mp3",
-        -- ["Id"] = 5484615,
-        -- ["Length"] = 136,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Viridescent Thicket B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_b.mp3",
-        -- ["Id"] = 5484617,
-        -- ["Length"] = 126,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Viridescent Thicket C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_c.mp3",
-        -- ["Id"] = 5484619,
-        -- ["Length"] = 134,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Viridescent Thicket D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_d.mp3",
-        -- ["Id"] = 5484621,
-        -- ["Length"] = 134,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW: Dragonflight",
-        -- ["Song"] = "Viridescent Thicket H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_h.mp3",
-        -- ["Id"] = 5484623,
-        -- ["Length"] = 172,
-        -- ["Artist"] = "Jake Lefkowitz",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.5",
-        -- ["Song"] = "Scene Beginning Of A New Dawn",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_beginning_of_a_new_dawn.mp3",
-        -- ["Id"] = 5554683,
-        -- ["Length"] = 135,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.5",
-        -- ["Song"] = "Scene Fair Skies Strong Winds",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_fair_skies_strong_winds.mp3",
-        -- ["Id"] = 5554677,
-        -- ["Length"] = 82,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.5",
-        -- ["Song"] = "Scene Gates Of Gilneas",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_gates_of_gilneas.mp3",
-        -- ["Id"] = 5554679,
-        -- ["Length"] = 25,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.5",
-        -- ["Song"] = "Scene The Returning",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_the_returning.mp3",
-        -- ["Id"] = 5554681,
-        -- ["Length"] = 133,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.6",
-        -- ["Song"] = "Plunderstorm A",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_a.mp3",
-        -- ["Id"] = 5700456,
-        -- ["Length"] = 16,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.6",
-        -- ["Song"] = "Plunderstorm B",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_b.mp3",
-        -- ["Id"] = 5700458,
-        -- ["Length"] = 7,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.6",
-        -- ["Song"] = "Plunderstorm C",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_c.mp3",
-        -- ["Id"] = 5700460,
-        -- ["Length"] = 17,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.6",
-        -- ["Song"] = "Plunderstorm D",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_d.mp3",
-        -- ["Id"] = 5700462,
-        -- ["Length"] = 10,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- },
-    -- {
-        -- ["Album"] = "WoW 10.2.6",
-        -- ["Song"] = "Plunderstorm H",
-        -- ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_h.mp3",
-        -- ["Id"] = 5700464,
-        -- ["Length"] = 148,
-        -- ["Artist"] = "Blizzard Entertainment",
-        -- ["Wow"] = "true"
-    -- }
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_a.mp3",
+        ["Id"] = 5484575,
+        ["Length"] = 106,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_b.mp3",
+        ["Id"] = 5484577,
+        ["Length"] = 162,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_c.mp3",
+        ["Id"] = 5484579,
+        ["Length"] = 133,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_d.mp3",
+        ["Id"] = 5484581,
+        ["Length"] = 136,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_e.mp3",
+        ["Id"] = 5486240,
+        ["Length"] = 120,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_f.mp3",
+        ["Id"] = 5486242,
+        ["Length"] = 123,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil G",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_g.mp3",
+        ["Id"] = 5486244,
+        ["Length"] = 139,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_h.mp3",
+        ["Id"] = 5484583,
+        ["Length"] = 194,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil I",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_i.mp3",
+        ["Id"] = 5486246,
+        ["Length"] = 81,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil J",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_j.mp3",
+        ["Id"] = 5486248,
+        ["Length"] = 62,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Amirdrassil K",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_amirdrassil_k.mp3",
+        ["Id"] = 5486250,
+        ["Length"] = 119,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Ancient Bough A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_a.mp3",
+        ["Id"] = 5484585,
+        ["Length"] = 115,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Ancient Bough B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_b.mp3",
+        ["Id"] = 5484587,
+        ["Length"] = 151,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Ancient Bough C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_c.mp3",
+        ["Id"] = 5484589,
+        ["Length"] = 123,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Ancient Bough H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_ancient_bough_h.mp3",
+        ["Id"] = 5484591,
+        ["Length"] = 226,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Flame A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_a.mp3",
+        ["Id"] = 5484601,
+        ["Length"] = 123,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Flame B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_b.mp3",
+        ["Id"] = 5484603,
+        ["Length"] = 113,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Flame H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_flame_h.mp3",
+        ["Id"] = 5484605,
+        ["Length"] = 122,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Reverie A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_a.mp3",
+        ["Id"] = 5484593,
+        ["Length"] = 97,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Reverie B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_b.mp3",
+        ["Id"] = 5484595,
+        ["Length"] = 104,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Reverie C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_c.mp3",
+        ["Id"] = 5484597,
+        ["Length"] = 88,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Barrows Of Reverie H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_barrows_of_reverie_h.mp3",
+        ["Id"] = 5484599,
+        ["Length"] = 85,
+        ["Artist"] = "Russell Brower",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Cinder Summit A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_a.mp3",
+        ["Id"] = 5483945,
+        ["Length"] = 93,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Cinder Summit B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_b.mp3",
+        ["Id"] = 5483947,
+        ["Length"] = 105,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Cinder Summit C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_c.mp3",
+        ["Id"] = 5483949,
+        ["Length"] = 115,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Cinder Summit H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_cinder_summit_h.mp3",
+        ["Id"] = 5483951,
+        ["Length"] = 143,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_a.mp3",
+        ["Id"] = 5484549,
+        ["Length"] = 22,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_b.mp3",
+        ["Id"] = 5484551,
+        ["Length"] = 23,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_c.mp3",
+        ["Id"] = 5484553,
+        ["Length"] = 130,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_d.mp3",
+        ["Id"] = 5484555,
+        ["Length"] = 131,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_e.mp3",
+        ["Id"] = 5484557,
+        ["Length"] = 86,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_f.mp3",
+        ["Id"] = 5484559,
+        ["Length"] = 148,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope G",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_g.mp3",
+        ["Id"] = 5484561,
+        ["Length"] = 108,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_h.mp3",
+        ["Id"] = 5484563,
+        ["Length"] = 204,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope I",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_i.mp3",
+        ["Id"] = 5484565,
+        ["Length"] = 157,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope J",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_j.mp3",
+        ["Id"] = 5484567,
+        ["Length"] = 129,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope K",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_k.mp3",
+        ["Id"] = 5484569,
+        ["Length"] = 129,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope L",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_l.mp3",
+        ["Id"] = 5484571,
+        ["Length"] = 203,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreams Hope M",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreams_hope_m.mp3",
+        ["Id"] = 5484573,
+        ["Length"] = 133,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_a.mp3",
+        ["Id"] = 5486222,
+        ["Length"] = 104,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_b.mp3",
+        ["Id"] = 5486224,
+        ["Length"] = 105,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_c.mp3",
+        ["Id"] = 5486226,
+        ["Length"] = 129,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_d.mp3",
+        ["Id"] = 5488889,
+        ["Length"] = 121,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_e.mp3",
+        ["Id"] = 5488891,
+        ["Length"] = 89,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Dreamsurge H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_dreamsurge_h.mp3",
+        ["Id"] = 5484517,
+        ["Length"] = 126,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_a.mp3",
+        ["Id"] = 5484625,
+        ["Length"] = 103,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_b.mp3",
+        ["Id"] = 5484627,
+        ["Length"] = 64,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_c.mp3",
+        ["Id"] = 5484629,
+        ["Length"] = 36,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_d.mp3",
+        ["Id"] = 5484631,
+        ["Length"] = 40,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_e.mp3",
+        ["Id"] = 5484633,
+        ["Length"] = 104,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_f.mp3",
+        ["Id"] = 5484635,
+        ["Length"] = 63,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream G",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_g.mp3",
+        ["Id"] = 5484637,
+        ["Length"] = 36,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_h.mp3",
+        ["Id"] = 5484639,
+        ["Length"] = 228,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream I",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_i.mp3",
+        ["Id"] = 5484641,
+        ["Length"] = 37,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream J",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_j.mp3",
+        ["Id"] = 5484643,
+        ["Length"] = 133,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream K",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_k.mp3",
+        ["Id"] = 5484645,
+        ["Length"] = 84,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream L",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_l.mp3",
+        ["Id"] = 5484647,
+        ["Length"] = 47,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Emerald Dream M",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_emerald_dream_m.mp3",
+        ["Id"] = 5484649,
+        ["Length"] = 51,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_a.mp3",
+        ["Id"] = 5484284,
+        ["Length"] = 120,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_b.mp3",
+        ["Id"] = 5484286,
+        ["Length"] = 148,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_c.mp3",
+        ["Id"] = 5484288,
+        ["Length"] = 128,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_d.mp3",
+        ["Id"] = 5484290,
+        ["Length"] = 145,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_e.mp3",
+        ["Id"] = 5484292,
+        ["Length"] = 157,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_f.mp3",
+        ["Id"] = 5484294,
+        ["Length"] = 204,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera G",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_g.mp3",
+        ["Id"] = 5484296,
+        ["Length"] = 204,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Eye Of Ysera H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_eye_of_ysera_h.mp3",
+        ["Id"] = 5484298,
+        ["Length"] = 204,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_a.mp3",
+        ["Id"] = 5484519,
+        ["Length"] = 107,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_b.mp3",
+        ["Id"] = 5484521,
+        ["Length"] = 119,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_c.mp3",
+        ["Id"] = 5484523,
+        ["Length"] = 113,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_d.mp3",
+        ["Id"] = 5484525,
+        ["Length"] = 114,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_e.mp3",
+        ["Id"] = 5484527,
+        ["Length"] = 97,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_f.mp3",
+        ["Id"] = 5484529,
+        ["Length"] = 120,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Firebreach H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_firebreach_h.mp3",
+        ["Id"] = 5484531,
+        ["Length"] = 289,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_a.mp3",
+        ["Id"] = 5486228,
+        ["Length"] = 109,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_b.mp3",
+        ["Id"] = 5486230,
+        ["Length"] = 100,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_c.mp3",
+        ["Id"] = 5486232,
+        ["Length"] = 107,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_d.mp3",
+        ["Id"] = 5486234,
+        ["Length"] = 96,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_e.mp3",
+        ["Id"] = 5486236,
+        ["Length"] = 87,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_f.mp3",
+        ["Id"] = 5486238,
+        ["Length"] = 93,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Flame Incursion H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_flame_incursion_h.mp3",
+        ["Id"] = 5484533,
+        ["Length"] = 131,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_a.mp3",
+        ["Id"] = 5484535,
+        ["Length"] = 82,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_b.mp3",
+        ["Id"] = 5484537,
+        ["Length"] = 94,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_c.mp3",
+        ["Id"] = 5484539,
+        ["Length"] = 84,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate Combat A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_a.mp3",
+        ["Id"] = 5488893,
+        ["Length"] = 176,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate Combat B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_b.mp3",
+        ["Id"] = 5488895,
+        ["Length"] = 140,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate Combat C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_combat_c.mp3",
+        ["Id"] = 5488897,
+        ["Length"] = 123,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_d.mp3",
+        ["Id"] = 5484541,
+        ["Length"] = 94,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_e.mp3",
+        ["Id"] = 5484543,
+        ["Length"] = 79,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_f.mp3",
+        ["Id"] = 5484545,
+        ["Length"] = 76,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Fury Incarnate H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_fury_incarnate_h.mp3",
+        ["Id"] = 5484547,
+        ["Length"] = 180,
+        ["Artist"] = "Glenn Stafford",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Haven Cascades A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_a.mp3",
+        ["Id"] = 5484607,
+        ["Length"] = 126,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Haven Cascades B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_b.mp3",
+        ["Id"] = 5484609,
+        ["Length"] = 138,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Haven Cascades C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_c.mp3",
+        ["Id"] = 5484611,
+        ["Length"] = 100,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Haven Cascades H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_haven_cascades_h.mp3",
+        ["Id"] = 5484613,
+        ["Length"] = 140,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_a.mp3",
+        ["Id"] = 5484651,
+        ["Length"] = 203,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_b.mp3",
+        ["Id"] = 5484653,
+        ["Length"] = 204,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_c.mp3",
+        ["Id"] = 5484655,
+        ["Length"] = 203,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_d.mp3",
+        ["Id"] = 5484657,
+        ["Length"] = 125,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary E",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_e.mp3",
+        ["Id"] = 5484659,
+        ["Length"] = 176,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary F",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_f.mp3",
+        ["Id"] = 5484661,
+        ["Length"] = 132,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary G",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_g.mp3",
+        ["Id"] = 5484663,
+        ["Length"] = 121,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_h.mp3",
+        ["Id"] = 5484665,
+        ["Length"] = 203,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Rootwoven Sanctuary I",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_rootwoven_sanctuary_i.mp3",
+        ["Id"] = 5484667,
+        ["Length"] = 117,
+        ["Artist"] = "Leo Kaliski",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Amirdrassil Finale 1",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_amirdrassil_finale_1.mp3",
+        ["Id"] = 5493357,
+        ["Length"] = 10,
+        ["Artist"] = "Neal Acree",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Amirdrassil Finale 2",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_amirdrassil_finale_2.mp3",
+        ["Id"] = 5484685,
+        ["Length"] = 7,
+        ["Artist"] = "Neal Acree",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Aspects Reempowered",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_aspects_reempowered.mp3",
+        ["Id"] = 5484671,
+        ["Length"] = 101,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Assault On Wellspring",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_assault_on_wellspring.mp3",
+        ["Id"] = 5484669,
+        ["Length"] = 82,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Blessing Of Teldrassil",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_blessing_of_teldrassil.mp3",
+        ["Id"] = 5484693,
+        ["Length"] = 98,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Bloom Begins",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_bloom_begins.mp3",
+        ["Id"] = 5484701,
+        ["Length"] = 56,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Elisande Timeway Escape",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_elisande_timeway_escape.mp3",
+        ["Id"] = 5484679,
+        ["Length"] = 57,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Emerald Welcome",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_emerald_welcome.mp3",
+        ["Id"] = 5484677,
+        ["Length"] = 42,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Forlorn Hope",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_forlorn_hope.mp3",
+        ["Id"] = 5484695,
+        ["Length"] = 68,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Fyrakk And Prophet",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_and_prophet.mp3",
+        ["Id"] = 5484683,
+        ["Length"] = 100,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Fyrakk Steals Smolderon",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_steals_smolderon.mp3",
+        ["Id"] = 5484687,
+        ["Length"] = 28,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Fyrakk The Blazing",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_fyrakk_the_blazing.mp3",
+        ["Id"] = 5484681,
+        ["Length"] = 54,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Galoks New Weapon",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_galoks_new_weapon.mp3",
+        ["Id"] = 5484689,
+        ["Length"] = 50,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Halls Of Lightning",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_halls_of_lightning.mp3",
+        ["Id"] = 5484675,
+        ["Length"] = 24,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Merithra Defeats Galok",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_merithra_defeats_galok.mp3",
+        ["Id"] = 5484691,
+        ["Length"] = 54,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Prophet Transforms",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_prophet_transforms.mp3",
+        ["Id"] = 5484703,
+        ["Length"] = 35,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Raid Fyrakk Intro",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_raid_fyrakk_intro.mp3",
+        ["Id"] = 5484697,
+        ["Length"] = 43,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene The Tide Turns",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_the_tide_turns.mp3",
+        ["Id"] = 5484705,
+        ["Length"] = 123,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Tyrs Awakening",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_tyrs_awakening.mp3",
+        ["Id"] = 5484699,
+        ["Length"] = 50,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Vyranoth Confronts Odyn",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_vyranoth_confronts_odyn.mp3",
+        ["Id"] = 5484707,
+        ["Length"] = 65,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Scene Ysera Goodbye",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_scene_ysera_goodbye.mp3",
+        ["Id"] = 5484709,
+        ["Length"] = 152,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Viridescent Thicket A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_a.mp3",
+        ["Id"] = 5484615,
+        ["Length"] = 136,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Viridescent Thicket B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_b.mp3",
+        ["Id"] = 5484617,
+        ["Length"] = 126,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Viridescent Thicket C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_c.mp3",
+        ["Id"] = 5484619,
+        ["Length"] = 134,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Viridescent Thicket D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_d.mp3",
+        ["Id"] = 5484621,
+        ["Length"] = 134,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW: Dragonflight",
+        ["Song"] = "Viridescent Thicket H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_102_viridescent_thicket_h.mp3",
+        ["Id"] = 5484623,
+        ["Length"] = 172,
+        ["Artist"] = "Jake Lefkowitz",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.5",
+        ["Song"] = "Scene Beginning Of A New Dawn",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_beginning_of_a_new_dawn.mp3",
+        ["Id"] = 5554683,
+        ["Length"] = 135,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.5",
+        ["Song"] = "Scene Fair Skies Strong Winds",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_fair_skies_strong_winds.mp3",
+        ["Id"] = 5554677,
+        ["Length"] = 82,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.5",
+        ["Song"] = "Scene Gates Of Gilneas",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_gates_of_gilneas.mp3",
+        ["Id"] = 5554679,
+        ["Length"] = 25,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.5",
+        ["Song"] = "Scene The Returning",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1025_scene_the_returning.mp3",
+        ["Id"] = 5554681,
+        ["Length"] = 133,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.6",
+        ["Song"] = "Plunderstorm A",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_a.mp3",
+        ["Id"] = 5700456,
+        ["Length"] = 16,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.6",
+        ["Song"] = "Plunderstorm B",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_b.mp3",
+        ["Id"] = 5700458,
+        ["Length"] = 7,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.6",
+        ["Song"] = "Plunderstorm C",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_c.mp3",
+        ["Id"] = 5700460,
+        ["Length"] = 17,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.6",
+        ["Song"] = "Plunderstorm D",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_d.mp3",
+        ["Id"] = 5700462,
+        ["Length"] = 10,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    },
+    {
+        ["Album"] = "WoW 10.2.6",
+        ["Song"] = "Plunderstorm H",
+        ["Name"] = "sound\\music\\dragonflight\\mus_1026_plunderstorm_h.mp3",
+        ["Id"] = 5700464,
+        ["Length"] = 148,
+        ["Artist"] = "Blizzard Entertainment",
+        ["Wow"] = "true"
+    }
 }
 EpicMusicPlayer:AddPlayList("Dragonflight", Dragonflight, false, true)
