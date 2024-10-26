@@ -3872,5 +3872,5 @@ local playlist1 = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 0 then
-	EpicMusicPlayer:AddPlayList("Burning Crusade", playlist1, false, true)
+	EpicMusicPlayer:AddPlayList(nil, playlist1, false, true)
 end

@@ -4851,5 +4851,5 @@ local Dragonflight = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 8 then
-    EpicMusicPlayer:AddPlayList("Dragonflight", Dragonflight, false, true)
+    EpicMusicPlayer:AddPlayList(nil, Dragonflight, false, true)
 end

@@ -7992,5 +7992,5 @@ local Shadowlands = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 7 then
-    EpicMusicPlayer:AddPlayList("Shadowlands", Shadowlands, false, true)
+    EpicMusicPlayer:AddPlayList(nil, Shadowlands, false, true))
 end

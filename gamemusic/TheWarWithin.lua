@@ -3321,5 +3321,5 @@ local TheWarWithin = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 9 then
-	EpicMusicPlayer:AddPlayList(nil, TheWarWithin, false)
+	EpicMusicPlayer:AddPlayList(nil, TheWarWithin, false, true)
 end

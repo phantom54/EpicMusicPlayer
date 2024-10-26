@@ -4823,5 +4823,5 @@ local playlist1 = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 2 then
-	EpicMusicPlayer:AddPlayList("Cataclysm", playlist1, false, true)
+	EpicMusicPlayer:AddPlayList(nil, playlist1, false, true)
 end

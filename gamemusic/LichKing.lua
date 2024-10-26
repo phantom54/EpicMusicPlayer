@@ -5000,5 +5000,5 @@ local playlist1 = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 1 then
-	EpicMusicPlayer:AddPlayList("Lich King", playlist1, false, true)
+	EpicMusicPlayer:AddPlayList(nil, playlist1, false, true)
 end

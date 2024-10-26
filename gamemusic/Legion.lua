@@ -3960,5 +3960,5 @@ local Legion = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 5 then
-	EpicMusicPlayer:AddPlayList("Legion", Legion, false, true)
+	EpicMusicPlayer:AddPlayList(nil, Legion, false, true)
 end

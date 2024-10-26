@@ -2754,5 +2754,5 @@ local Draenor = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 4 then
-	EpicMusicPlayer:AddPlayList("Warlords of Draenor", Draenor, false, true)
+	EpicMusicPlayer:AddPlayList(nil, Draenor, false, true)
 end

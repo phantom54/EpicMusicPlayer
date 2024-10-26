@@ -1944,4 +1944,4 @@ local playlist1 = {
 		["WoW"] =  "true",
 	},	
 }
-EpicMusicPlayer:AddPlayList("Classic", playlist1, false, true)
+EpicMusicPlayer:AddPlayList(nil, playlist1, false, true)

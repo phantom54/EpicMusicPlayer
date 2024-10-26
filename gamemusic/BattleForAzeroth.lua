@@ -6057,5 +6057,5 @@ local BattleForAzeroth = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 6 then
-	EpicMusicPlayer:AddPlayList("Battle for Azeroth", BattleForAzeroth, false, true)
+	EpicMusicPlayer:AddPlayList(nil, BattleForAzeroth, false, true)
 end

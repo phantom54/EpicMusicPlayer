@@ -5074,5 +5074,5 @@ local playlist1 = {
 }
 
 if LE_EXPANSION_LEVEL_CURRENT > 3 then
-	EpicMusicPlayer:AddPlayList("Mists of Pandaria", playlist1, false, true)
+	EpicMusicPlayer:AddPlayList(nil, playlist1, false, true)
 end
