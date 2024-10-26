@@ -1,0 +1,56 @@
+## Interface: 30403
+## Title: EpicMusicPlayer
+## Notes: Browse and play WoW game music
+## Author: Kiatra - github.com/Kiatra/EpicMusicPlayer/
+## SavedVariables: EpicMusicPlayer_PlayList, EpicMusicPlayerDB, EpicMusicPlayerBrokerDB, EpicMusicDancerDB
+## OptionalDeps: Ace3, LibSharedMedia-3.0
+## X-Embeds: Ace3, LibSharedMedia-3.0
+
+## Version: v8.0
+## X-Category: Audio
+## X-WoWI-ID: 24773
+## X-Curse-Project-ID: 6139
+
+#@no-lib-strip@
+libs\libs.xml
+#@end-no-lib-strip@
+libs\LibDataBroker-1.1.lua
+#@no-lib-strip@
+libs\LibDBIcon-1.0.xml
+#@end-no-lib-strip@
+
+localization.lua
+
+core\core.lua
+core\util.lua
+core\volumeControl.lua
+core\scrolllist.lua
+core\playlistframe.lua
+core\options.lua
+core\tooltip.lua
+core\dropdown.lua
+core\listmanagement.lua
+#core\musicevent.lua
+core\player.lua
+core\easter.lua
+core\osd.lua
+core\chat.lua
+core\bindings.lua
+
+gui\gui.lua
+gui\skins.lua
+
+broker\empbroker.lua
+#dancer\EpicMusicDancer.lua
+gamemusic\Epic.lua
+gamemusic\Classic.lua
+gamemusic\BurningCrusade.lua
+gamemusic\LichKing.lua
+gamemusic\Cataclysm.lua
+gamemusic\Pandaria.lua
+gamemusic\Draenor.lua
+gamemusic\Legion.lua
+gamemusic\BattleForAzeroth.lua
+gamemusic\Shadowlands.lua
+gamemusic\Dragonflight.lua
+gamemusic\TheWarWithin.lua
