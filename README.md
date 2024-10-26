@@ -39,7 +39,7 @@ EpicMusicPlayer\core\volumeControl.lua
 
 EpicMusicPlayer\EpicMusicPlayer_Mainline.toc
 
-EpicMusicPlayer\gamemusic\*all lua files
+EpicMusicPlayer\gamemusic\ *all lua files
 
 Not sure if we really need to update Draenor to BfA lists
 
