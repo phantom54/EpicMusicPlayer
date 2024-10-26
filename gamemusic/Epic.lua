@@ -589,4 +589,4 @@ local EpicMusicPlayer = LibStub("AceAddon-3.0"):GetAddon("EpicMusicPlayer")
 
 if not EpicMusicPlayer then return end
 
-EpicMusicPlayer:AddPlayList(nil, BestofWoW, false, true))
+EpicMusicPlayer:AddPlayList(nil, BestofWoW, false, true)
