@@ -197,6 +197,21 @@ function EpicMusicPlayer:CopySong(song, dstList)
 	end
 end
 
+function EpicMusicPlayer:RemoveAllSelectedSong(srcList)
+	if type(srcList) == "number" then srcList, _ = playlists[srcList] end
+	
+	local songIndex = 1
+	while songIndex <= #srcList do
+		song = srcList[songIndex]
+		if song.isChecked then
+			self:RemoveSong(srcList, songIndex, silent)
+		else
+			songIndex = songIndex + 1
+		end
+	end
+	
+end
+
 function EpicMusicPlayer:CopyAllSelectedSongs(srcList, dstList)
 	if type(srcList) == "number" then srcList, _ = playlists[srcList] end
 	if type(dstList) == "number" then dstList, _ = playlists[dstList] end
@@ -231,22 +246,21 @@ function EpicMusicPlayer:GetNumberOfSelectedSongs(listIndex)
 	return numSeleced
 end
 
-function EpicMusicPlayer:RemoveSong(listIndex, songIndex, silent)
-	local list = playlists[listIndex]
-	if list then
-		local song = list[songIndex]
-		if song then
-			table.remove(list,songIndex)
-		end
-		if not silent and song.Song then
-			self:Print(L["Removed song"].."\""..song.Song..
-			"\" "..L["from list"].." \""..list.listName.."\".")
-			return true
-		end
-		EpicMusicPlayer:PlayListGuiUpdate()
+function EpicMusicPlayer:RemoveSong(srcList, songIndex, silent)
+	local song = srcList[songIndex]
+	if song then
+		table.remove(srcList,songIndex)
 	end
+	if not silent and song.Song then
+		self:Print(L["Removed song"].."\""..song.Song..
+		"\" "..L["from list"].." \""..srcList.listName.."\".")
+		return true
+	end
+	EpicMusicPlayer:PlayListGuiUpdate()
+	
 	return false
 end
+
 
 function EpicMusicPlayer:CreatePlayListDialog(acceptfunction)
 	_G.StaticPopupDialogs["EPICMUSICPLAYER_ADDPLAYLIST"] = {
@@ -259,14 +273,14 @@ function EpicMusicPlayer:CreatePlayListDialog(acceptfunction)
 		OnAccept = acceptfunction or function (self, data, data2)
 			local text = self.editBox:GetText()
 			EpicMusicPlayer.tempListName = text
-      EpicMusicPlayer:Debug("EpicMusicPlayer.tempListName: ", EpicMusicPlayer.tempListName)
+      		EpicMusicPlayer:Debug("EpicMusicPlayer.tempListName: ", EpicMusicPlayer.tempListName)
 			EpicMusicPlayer:AddPlayList(text, nil, true)
 		end,
 		hasEditBox = true,
 		OnShow = function (self, data)
 			 EpicMusicPlayer:ClearSearchFocus()
        self.editBox:SetText(L["New List"])
-			 self.editBox:HighlightText(0, self.editBox:GetNumLetters())
+			 self.editBox:HighlightText(0, self.editBox:GetNumLetters()*2)
 		end,
 		EditBoxOnTextChanged = function (self, data)   -- careful! 'self' here points to the editbox, not the dialog
 			if self:GetText() ~= "" then
@@ -296,7 +310,7 @@ function EpicMusicPlayer:ExportPlayListDialog(listname)
 		EditBoxOnTextChanged = function (self, data)   -- careful! 'self' here points to the editbox, not the dialog
 				self:GetParent().button1:Enable()          -- self:GetParent() is the dialog
 				self:SetAutoFocus(true)
-				self:HighlightText(0, self:GetNumLetters())
+				self:HighlightText(0, self:GetNumLetters()*2)
 		end
 	}
 	_G.StaticPopup_Show("EPICMUSICPLAYER_EXPORTPLAYLIST")

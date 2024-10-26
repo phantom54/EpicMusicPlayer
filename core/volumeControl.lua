@@ -39,7 +39,7 @@ function EpicMusicPlayer:ForceMusicVolume(volume)
 end
 
 function EpicMusicPlayer:RestoreMusic()
-	if(self.disablewowmusic) then
+	if(db.disablewowmusic) then
 		SetCVar("Sound_EnableMusic", 0);
 	else
 		SetCVar("Sound_EnableMusic", 1);

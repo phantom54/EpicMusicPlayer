@@ -15,7 +15,7 @@ EpicMusicPlayer.controlslist = {
 	PlayLast = L["Play Last Song"], TogglePlayerGui = L["Toggle show GUI"], ToggleRandom = L["Toggle shuffle"],
 	RemoveCurrendSong = L["Remove Song"], SpamDefault = L["Send song name to default channel"],
 }
-EpicMusicPlayer.version = GetAddOnMetadata("EpicMusicPlayer","Version")
+EpicMusicPlayer.version = C_AddOns.GetAddOnMetadata("EpicMusicPlayer","Version")
 EpicMusicPlayer.tocversion = select(4, GetBuildInfo());
 
 local function Debug(...)
@@ -160,18 +160,19 @@ end
 function EpicMusicPlayer:OnEnable(first)
 	self:RegisterEvent("PLAYER_ENTERING_WORLD", EpicMusicPlayer.OnEnteringWorld, "PLAYER_ENTERING_WORLD")
 	self:RegisterEvent("CHAT_MSG_WHISPER_INFORM", EpicMusicPlayer.OnWhisperInform)
-  self:RegisterEvent("ZONE_CHANGED_NEW_AREA", EpicMusicPlayer.OnZoneChangedNewArea)
+	self:RegisterEvent("ZONE_CHANGED_NEW_AREA", EpicMusicPlayer.OnZoneChangedNewArea)
 	self:RegisterEvent("PLAYER_ALIVE", EpicMusicPlayer.OnPlayerAlive)
 	
+	if db.disablewowmusic then
+		SetCVar("Sound_EnableMusic", 0)
+	end
 
 	if(self.Playing == false)then
         if(db.auto) then
 			EpicMusicPlayer:Play()
         else
-			if(db.disablewowmusic) then
-				SetCVar("Sound_EnableMusic", 0);
-			else
-				SetCVar("Sound_EnableMusic", 1);
+			if db.disablewowmusic then
+				SetCVar("Sound_EnableMusic", 0)
 			end
 			EpicMusicPlayer:Stop()
         end

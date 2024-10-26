@@ -33,14 +33,14 @@ end
 
 local function addVolumeLine(self)
 	if self.db.usePlaySoundFile then
-		GameTooltip:AddLine("EpicMusicPlayer is using the amiance channel.")
-		GameTooltip:AddLine("Ambience Volume: "..getVolumeText("Sound_AmbienceVolume"))
+		GameTooltip:AddLine(L["EpicMusicPlayer is using the amiance channel."])
+		GameTooltip:AddLine(L["Ambience Volume: "]..getVolumeText("Sound_AmbienceVolume"))
 	else
-		GameTooltip:AddLine("Music Volume: "..getVolumeText("Sound_MusicVolume").." Scroll to change.")
+		GameTooltip:AddLine(L["Music Volume: "]..getVolumeText("Sound_MusicVolume")..L[" Scroll to change."])
 	end
 
-	GameTooltip:AddLine("Sound Volume: "..getVolumeText("Sound_SFXVolume").." Scroll + control to change.")
-	GameTooltip:AddLine("Master Volume: "..getVolumeText("Sound_MasterVolume").." Scroll + shift to change.")
+	GameTooltip:AddLine(L["Sound Volume: "]..getVolumeText("Sound_SFXVolume")..L[" Scroll + control to change."])
+	GameTooltip:AddLine(L["Master Volume: "]..getVolumeText("Sound_MasterVolume")..L[" Scroll + shift to change."])
 end
 
 function EpicMusicPlayer:ShowTooltip(anchor)

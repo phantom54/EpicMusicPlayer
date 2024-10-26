@@ -1,4 +1,4 @@
-## Interface: 20504
+## Interface: 40400
 ## Title: EpicMusicPlayer
 ## Notes: Browse and play WoW game music
 ## Author: Kiatra - github.com/Kiatra/EpicMusicPlayer/
