@@ -1,3 +1,6 @@
+# EpicMusicPlayer
+World of Warcraft add-on to play in-game music and custom mp3 files
+
 Epic Music Player (EpicMusicPlayer) original page (version 8.0):
 
 https://www.curseforge.com/wow/addons/epic-music-player
