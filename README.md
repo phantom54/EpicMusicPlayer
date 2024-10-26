@@ -5,7 +5,7 @@ Epic Music Player (EpicMusicPlayer) original page (version 8.0):
 
 https://www.curseforge.com/wow/addons/epic-music-player
 
-Changelog (version 8.0 + my fixes):
+# Changelog (version 8.0 + my fixes):
 
 Regenerated playlists from Draenor to War Within
 
@@ -23,7 +23,7 @@ Added some missing Russian locale strings
 
 Fixed "Disable WoW Music" when nothing playing when corresponding option enabled
 
-Modified files (from version 8.0):
+# Modified files (from version 8.0):
 
 EpicMusicPlayer\localization.lua
 
