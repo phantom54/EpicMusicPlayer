@@ -20,8 +20,6 @@ Added some missing Russian locale strings
 
 Fixed "Disable WoW Music" when nothing playing when corresponding option enabled
 
-
-
 Modified files (from version 8.0):
 
 EpicMusicPlayer\localization.lua
@@ -51,7 +49,6 @@ EpicMusicPlayer\gamemusic\Legion.lua
 EpicMusicPlayer\gamemusic\Shadowlands.lua
 
 EpicMusicPlayer\gamemusic\TheWarWithin.lua
-
 
 Not sure if we really need to update Draenor to BfA lists
 
